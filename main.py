@@ -27,7 +27,7 @@ def train():
     action_selector = ActionSelector(dqn=main_dqn, num_actions=environment.action_number,
                                      initial_epsilon=EPSILON_INITIAL, middle_epsilon=EPSILON_SECOND,
                                      finish_epsilon=EPSILON_FINAL, minimum_replay_size=REPLAY_MEMORY_START_SIZE,
-                                     maximum_replay_size=MEMORY_SIZE)
+                                     maximum_replay_size=MEMORY_SIZE, final_frame_number=MAX_FRAMES)
     target_dqn_updater = TargetDqnUpdater(main_dqn=main_dqn, target_dqn=target_dqn)
 
     total_frame_number = 0
@@ -41,8 +41,8 @@ def train():
     open('scores/best_scores.txt', 'w').close()
     open('scores/averages.txt', 'w').close()
 
-    #main_dqn.load_model(5000)
-    #target_dqn.load_model(5000)
+    #main_dqn.load_model(400)
+    #target_dqn.load_model(400)
     while total_frame_number < MAX_FRAMES:
         episode += 1
 
@@ -127,23 +127,22 @@ def test():
                                      finish_epsilon=EPSILON_FINAL, minimum_replay_size=REPLAY_MEMORY_START_SIZE,
                                      maximum_replay_size=MEMORY_SIZE)
 
-    main_dqn.load_model(5000)
+    main_dqn.load_model(7800)
     print(environment.action_number)
     terminal_life_lost = environment.reset_environment(hard_reset=True)
     game_reward = 0
     while True:
         environment.render()
-        time.sleep(.03)
+        #time.sleep(.03)
         action = 1 if terminal_life_lost else action_selector.act_test(environment.current_state)
         processed_next_frame, reward, terminal, terminal_life_lost = environment.commit_action(action)
         game_reward += reward
         if terminal_life_lost:
             environment.reset_environment(hard_reset=False)
         if terminal:
-            terminal_life_lost = environment.reset_environment(hard_reset=True)
             print("Game reward: " + str(game_reward))
             game_reward = 0
-            break
+            terminal_life_lost = environment.reset_environment(hard_reset=True)
 
 
 if __name__ == '__main__':

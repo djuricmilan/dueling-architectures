@@ -46,3 +46,6 @@ class AtariEnvironment:
     def render(self):
         self.__env.render()
 
+    def close(self):
+        self.__env.close()
+

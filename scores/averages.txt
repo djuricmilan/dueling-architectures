@@ -1,203 +1,312 @@
 
 Episodes 0 - 100 results:
-Average reward per episode: 0.91000
-Average frames per episode: 129.56
+Average reward per episode: 1.00000
+Average frames per episode: 132.43
 
 Episodes 100 - 200 results:
-Average reward per episode: 0.94000
-Average frames per episode: 132.49
+Average reward per episode: 0.99000
+Average frames per episode: 135.61
 
 Episodes 200 - 300 results:
-Average reward per episode: 1.13000
-Average frames per episode: 140.10
-
-SAD TEK KRECE TRENIRANJE
-
+Average reward per episode: 1.03000
+Average frames per episode: 136.50
 
 Episodes 300 - 400 results:
-Average reward per episode: 1.09000
-Average frames per episode: 137.55
-
-Episodes 400 - 500 results:
 Average reward per episode: 0.94000
-Average frames per episode: 132.92
-
-Episodes 500 - 600 results:
-Average reward per episode: 0.93000
 Average frames per episode: 131.39
 
+Episodes 400 - 500 results:
+Average reward per episode: 0.95000
+Average frames per episode: 134.27
+
+Episodes 500 - 600 results:
+Average reward per episode: 0.80000
+Average frames per episode: 125.07
+
 Episodes 600 - 700 results:
-Average reward per episode: 0.84000
-Average frames per episode: 127.49
+Average reward per episode: 0.85000
+Average frames per episode: 129.35
 
 Episodes 700 - 800 results:
-Average reward per episode: 1.35000
-Average frames per episode: 147.81
+Average reward per episode: 1.25000
+Average frames per episode: 141.91
 
 Episodes 800 - 900 results:
-Average reward per episode: 1.42000
-Average frames per episode: 147.97
+Average reward per episode: 1.04000
+Average frames per episode: 132.69
 
 Episodes 900 - 1000 results:
-Average reward per episode: 2.05000
-Average frames per episode: 169.97
+Average reward per episode: 1.39000
+Average frames per episode: 148.33
 
 Episodes 1000 - 1100 results:
-Average reward per episode: 1.68000
-Average frames per episode: 154.13
+Average reward per episode: 1.30000
+Average frames per episode: 144.38
 
 Episodes 1100 - 1200 results:
-Average reward per episode: 1.93000
-Average frames per episode: 164.76
+Average reward per episode: 1.41000
+Average frames per episode: 146.40
 
 Episodes 1200 - 1300 results:
-Average reward per episode: 2.36000
-Average frames per episode: 176.64
+Average reward per episode: 1.55000
+Average frames per episode: 151.36
 
 Episodes 1300 - 1400 results:
-Average reward per episode: 2.21000
-Average frames per episode: 175.08
+Average reward per episode: 1.64000
+Average frames per episode: 154.22
 
 Episodes 1400 - 1500 results:
-Average reward per episode: 2.57000
-Average frames per episode: 186.84
+Average reward per episode: 1.75000
+Average frames per episode: 157.02
 
 Episodes 1500 - 1600 results:
-Average reward per episode: 2.59000
-Average frames per episode: 189.08
+Average reward per episode: 1.75000
+Average frames per episode: 157.77
 
 Episodes 1600 - 1700 results:
-Average reward per episode: 2.91000
-Average frames per episode: 208.78
+Average reward per episode: 2.08000
+Average frames per episode: 171.99
 
 Episodes 1700 - 1800 results:
-Average reward per episode: 3.13000
-Average frames per episode: 212.55
+Average reward per episode: 2.07000
+Average frames per episode: 171.40
 
 Episodes 1800 - 1900 results:
-Average reward per episode: 3.70000
-Average frames per episode: 229.66
+Average reward per episode: 2.29000
+Average frames per episode: 182.71
 
 Episodes 1900 - 2000 results:
-Average reward per episode: 3.91000
-Average frames per episode: 235.08
+Average reward per episode: 2.30000
+Average frames per episode: 181.42
 
 Episodes 2000 - 2100 results:
-Average reward per episode: 4.63000
-Average frames per episode: 261.97
+Average reward per episode: 2.78000
+Average frames per episode: 196.84
 
 Episodes 2100 - 2200 results:
-Average reward per episode: 4.90000
-Average frames per episode: 270.27
+Average reward per episode: 3.04000
+Average frames per episode: 203.35
 
 Episodes 2200 - 2300 results:
-Average reward per episode: 5.86000
-Average frames per episode: 300.09
+Average reward per episode: 3.18000
+Average frames per episode: 213.68
 
 Episodes 2300 - 2400 results:
-Average reward per episode: 6.53000
-Average frames per episode: 318.61
+Average reward per episode: 3.29000
+Average frames per episode: 214.90
 
 Episodes 2400 - 2500 results:
-Average reward per episode: 6.73000
-Average frames per episode: 339.50
+Average reward per episode: 3.18000
+Average frames per episode: 204.39
 
 Episodes 2500 - 2600 results:
-Average reward per episode: 9.22000
-Average frames per episode: 395.69
+Average reward per episode: 3.68000
+Average frames per episode: 227.09
 
 Episodes 2600 - 2700 results:
-Average reward per episode: 9.82000
-Average frames per episode: 415.93
+Average reward per episode: 4.18000
+Average frames per episode: 247.51
 
 Episodes 2700 - 2800 results:
-Average reward per episode: 11.70000
-Average frames per episode: 465.75
+Average reward per episode: 3.72000
+Average frames per episode: 233.11
 
 Episodes 2800 - 2900 results:
-Average reward per episode: 14.24000
-Average frames per episode: 530.87
+Average reward per episode: 4.44000
+Average frames per episode: 258.78
 
 Episodes 2900 - 3000 results:
-Average reward per episode: 16.53000
-Average frames per episode: 610.94
+Average reward per episode: 4.95000
+Average frames per episode: 273.99
 
 Episodes 3000 - 3100 results:
-Average reward per episode: 16.89000
-Average frames per episode: 605.04
+Average reward per episode: 4.75000
+Average frames per episode: 270.98
 
 Episodes 3100 - 3200 results:
-Average reward per episode: 17.32000
-Average frames per episode: 626.75
+Average reward per episode: 6.00000
+Average frames per episode: 312.57
 
 Episodes 3200 - 3300 results:
-Average reward per episode: 18.70000
-Average frames per episode: 632.60
+Average reward per episode: 6.19000
+Average frames per episode: 315.40
 
 Episodes 3300 - 3400 results:
-Average reward per episode: 21.26000
-Average frames per episode: 706.94
+Average reward per episode: 7.18000
+Average frames per episode: 350.52
 
 Episodes 3400 - 3500 results:
-Average reward per episode: 20.68000
-Average frames per episode: 683.53
+Average reward per episode: 7.80000
+Average frames per episode: 369.10
 
 Episodes 3500 - 3600 results:
-Average reward per episode: 22.50000
-Average frames per episode: 718.74
+Average reward per episode: 8.08000
+Average frames per episode: 384.33
 
 Episodes 3600 - 3700 results:
-Average reward per episode: 23.09000
-Average frames per episode: 736.78
+Average reward per episode: 9.60000
+Average frames per episode: 426.50
 
 Episodes 3700 - 3800 results:
-Average reward per episode: 25.20000
-Average frames per episode: 758.64
+Average reward per episode: 9.85000
+Average frames per episode: 431.89
 
 Episodes 3800 - 3900 results:
-Average reward per episode: 26.70000
-Average frames per episode: 789.25
+Average reward per episode: 11.42000
+Average frames per episode: 473.99
 
 Episodes 3900 - 4000 results:
-Average reward per episode: 28.59000
-Average frames per episode: 833.24
+Average reward per episode: 13.38000
+Average frames per episode: 513.33
 
 Episodes 4000 - 4100 results:
-Average reward per episode: 32.83000
-Average frames per episode: 887.73
+Average reward per episode: 14.63000
+Average frames per episode: 562.16
 
 Episodes 4100 - 4200 results:
-Average reward per episode: 30.83000
-Average frames per episode: 858.17
+Average reward per episode: 17.11000
+Average frames per episode: 621.65
 
 Episodes 4200 - 4300 results:
-Average reward per episode: 34.39000
-Average frames per episode: 903.71
+Average reward per episode: 17.93000
+Average frames per episode: 622.65
 
 Episodes 4300 - 4400 results:
-Average reward per episode: 37.03000
-Average frames per episode: 958.30
+Average reward per episode: 19.55000
+Average frames per episode: 664.95
 
 Episodes 4400 - 4500 results:
-Average reward per episode: 39.50000
-Average frames per episode: 987.51
+Average reward per episode: 20.40000
+Average frames per episode: 670.20
 
 Episodes 4500 - 4600 results:
-Average reward per episode: 40.06000
-Average frames per episode: 999.62
+Average reward per episode: 20.33000
+Average frames per episode: 671.02
 
 Episodes 4600 - 4700 results:
-Average reward per episode: 43.12000
-Average frames per episode: 1031.70
+Average reward per episode: 21.22000
+Average frames per episode: 670.78
 
 Episodes 4700 - 4800 results:
-Average reward per episode: 44.45000
-Average frames per episode: 1062.31
+Average reward per episode: 23.40000
+Average frames per episode: 731.66
 
 Episodes 4800 - 4900 results:
-Average reward per episode: 47.07000
-Average frames per episode: 1090.13
+Average reward per episode: 23.63000
+Average frames per episode: 710.78
 
 Episodes 4900 - 5000 results:
-Average reward per episode: 49.91000
-Average frames per episode: 1112.27
+Average reward per episode: 25.52000
+Average frames per episode: 766.51
+
+Episodes 5000 - 5100 results:
+Average reward per episode: 28.24000
+Average frames per episode: 798.29
+
+Episodes 5100 - 5200 results:
+Average reward per episode: 28.63000
+Average frames per episode: 816.37
+
+Episodes 5200 - 5300 results:
+Average reward per episode: 30.46000
+Average frames per episode: 847.64
+
+Episodes 5300 - 5400 results:
+Average reward per episode: 32.11000
+Average frames per episode: 877.79
+
+Episodes 5400 - 5500 results:
+Average reward per episode: 35.96000
+Average frames per episode: 937.35
+
+Episodes 5500 - 5600 results:
+Average reward per episode: 36.24000
+Average frames per episode: 948.44
+
+Episodes 5600 - 5700 results:
+Average reward per episode: 38.10000
+Average frames per episode: 965.93
+
+Episodes 5700 - 5800 results:
+Average reward per episode: 39.72000
+Average frames per episode: 1008.55
+
+Episodes 5800 - 5900 results:
+Average reward per episode: 42.60000
+Average frames per episode: 1058.62
+
+Episodes 5900 - 6000 results:
+Average reward per episode: 46.21000
+Average frames per episode: 1095.32
+
+Episodes 6000 - 6100 results:
+Average reward per episode: 47.62000
+Average frames per episode: 1120.71
+
+Episodes 6100 - 6200 results:
+Average reward per episode: 52.55000
+Average frames per episode: 1163.16
+
+Episodes 6200 - 6300 results:
+Average reward per episode: 53.34000
+Average frames per episode: 1153.83
+
+Episodes 6300 - 6400 results:
+Average reward per episode: 53.49000
+Average frames per episode: 1151.41
+
+Episodes 6400 - 6500 results:
+Average reward per episode: 57.52000
+Average frames per episode: 1198.05
+
+Episodes 6500 - 6600 results:
+Average reward per episode: 60.21000
+Average frames per episode: 1211.39
+
+Episodes 6600 - 6700 results:
+Average reward per episode: 66.17000
+Average frames per episode: 1300.20
+
+Episodes 6700 - 6800 results:
+Average reward per episode: 65.90000
+Average frames per episode: 1267.70
+
+Episodes 6800 - 6900 results:
+Average reward per episode: 73.22000
+Average frames per episode: 1305.72
+
+Episodes 6900 - 7000 results:
+Average reward per episode: 81.39000
+Average frames per episode: 1328.94
+
+Episodes 7000 - 7100 results:
+Average reward per episode: 83.83000
+Average frames per episode: 1371.56
+
+Episodes 7100 - 7200 results:
+Average reward per episode: 90.51000
+Average frames per episode: 1394.09
+
+Episodes 7200 - 7300 results:
+Average reward per episode: 100.69000
+Average frames per episode: 1414.23
+
+Episodes 7300 - 7400 results:
+Average reward per episode: 120.50000
+Average frames per episode: 1460.37
+
+Episodes 7400 - 7500 results:
+Average reward per episode: 142.42000
+Average frames per episode: 1524.87
+
+Episodes 7500 - 7600 results:
+Average reward per episode: 165.74000
+Average frames per episode: 1538.07
+
+Episodes 7600 - 7700 results:
+Average reward per episode: 174.07000
+Average frames per episode: 1577.65
+
+Episodes 7700 - 7800 results:
+Average reward per episode: 202.09000
+Average frames per episode: 1632.76

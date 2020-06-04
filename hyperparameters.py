@@ -9,8 +9,8 @@ NETW_UPDATE_FREQ = 1000          # Number of chosen actions between updating the
 DISCOUNT_FACTOR = 0.99           # gamma in the Bellman equation
 REPLAY_MEMORY_START_SIZE = 50000 # Number of completely random actions,
                                  # before the agent starts learning
-MAX_FRAMES = 2500000             # Total number of frames the agent sees
-MEMORY_SIZE = 700000            # Number of transitions stored in the replay memory
+MAX_FRAMES = 5000000             # Total number of frames the agent sees
+MEMORY_SIZE = 1000000            # Number of transitions stored in the replay memory
 FRAME_STACK_LENGTH = 4           # length of frame stack that represents a single state
 UPDATE_FREQ = 4                  # Every four actions a gradient descend step is performed
 HIDDEN = 1024                    # Number of filters in the final convolutional layer. The output
@@ -27,5 +27,5 @@ FRAME_WIDTH = 84
 FRAME_HEIGHT = 84
 
 #PATH = "output"
-PATH_READ = "models1"
-PATH_WRITE = "models1"
+PATH_READ = "models2"
+PATH_WRITE = "models2"
