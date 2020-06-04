@@ -17,3 +17,7 @@ Ono što je karakteristično za prvi model je:
 - Learning rate Adam optimajzera: 0.00001
 - Loss funkcija: mean squared error
 - Ukupan broj frejmova (dužina treniranja): 2.5 miliona frejmova, što je oko 40 sati treniranja na mojoj mašini
+
+### Drugi model
+
+Modeli nakon 1000 iteracija se nalaze u direktorijumu models2. Maksimalna veličina replay memorije je proširena sa 700 hiljada na milion frejmova. Model je treniran 5 miliona frejmova.
